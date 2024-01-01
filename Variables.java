@@ -3,8 +3,10 @@ public class Variables {
         int myNumber = 42;
         boolean isFun = true;
         char movieRating = 'A';
-        System.out.println(myNumber);
-        System.out.println(isFun);
-        System.out.println(movieRating);
+        byte age=23;
+        long viewsCount = 3_123_456_789L;
+        float price = 10.99F;
+        double price2 = 10.99;
+
     }
 }

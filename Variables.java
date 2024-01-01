@@ -7,5 +7,6 @@ public class Variables {
         long viewsCount = 3_123_456_789L;
         float price = 10.99F;
         double price2 = 10.99;
+        System.out.println(myNumber+" "+isFun+" "+movieRating+" "+age+" "+viewsCount+" "+price+" "+price2);
     }
 }

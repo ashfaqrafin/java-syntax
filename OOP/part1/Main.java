@@ -62,7 +62,7 @@ class Student {
     }
 
     Student () {
-        this (13, "default person", 100.0f);
+        this (13, "Random", 90.0f);
     }
 
 

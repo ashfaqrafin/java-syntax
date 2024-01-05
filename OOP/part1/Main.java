@@ -34,6 +34,7 @@ public class Main {
 
         System.out.println(two.name);
 
+
     }
 }
 
@@ -54,6 +55,10 @@ class Student {
         this.name = other.name;
         this.rno = other.rno;
         this.marks = other.marks;
+    }
+
+    Student (int marks){
+        this.marks = marks;
     }
 
     Student () {

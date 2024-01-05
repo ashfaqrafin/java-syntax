@@ -1,3 +1,4 @@
+package syntax;
 public class Functions {
     public static void greet(){
         System.out.println("Hello!"); 

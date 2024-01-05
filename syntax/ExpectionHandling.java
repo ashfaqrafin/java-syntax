@@ -1,3 +1,4 @@
+package syntax;
 public class ExpectionHandling {
     public static void main(String[] args){
         int[] marks={97,96,98};

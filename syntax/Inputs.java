@@ -1,3 +1,4 @@
+package syntax;
 import java.util.Scanner;
 class Inputs {
         public static void main(String[] args) {

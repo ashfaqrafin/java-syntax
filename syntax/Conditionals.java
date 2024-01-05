@@ -1,3 +1,4 @@
+package syntax;
 public class Conditionals {
     public static void main(String[] args){
         int age = 18;
